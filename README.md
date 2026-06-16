@@ -1,4 +1,4 @@
-# 🐕 Jayasurya Raj
+# 🐐 Jayasurya Raj
 
 `Law Student • Software Engineer • Builder`
 
@@ -64,8 +64,8 @@ Projects, blogs, and experiments.
 
 ## Links
 
-- Portfolio: https://your-portfolio-link.com
-- Contact: mailto:jayy.intouch@gmail.com
+- Portfolio:  
+- Contact: mail to: jayy.intouch@gmail.com
 
 <p align="left">
 <a href="https://linkedin.com/in/jayasurya-raj">
@@ -76,7 +76,7 @@ Projects, blogs, and experiments.
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://youtube.com/@yourchannel">
+<a href="https://youtube.com/@masterflix">
 <img src="https://skillicons.dev/icons?i=youtube" />
 </a>
 </p>
