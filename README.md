@@ -1,21 +1,73 @@
-<h1 align="center">👋 Hey, I'm Jayasurya</h1>
+# 🐕 Jayasurya Raj
 
-<h3 align="center">
-Law Student • Software Engineer • Builder
-</h3>
+`Law Student • Software Engineer • Builder`
 
-<br>
+---
 
-<table>
-<tr>
-<td width="35%">
+## About Me
 
-<img src="https://avatars.githubusercontent.com/jayyy-collab?v=4" width="100%" style="border-radius:50%;" />
+- I build, learn, and share in public.
+- Currently building **TrustIndex**.
+- Law + Engineering student.
+- Interested in AI, Product Development, and Technology.
+- Constant work in progress.
 
-<br>
+---
 
-### Connect
+## Skill Stack
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+**Also comfortable with:** Legal Research, Product Strategy, UI/UX Design, Database Design, APIs, and Technical Writing.
+
+---
+
+## Projects
+
+### TrustIndex
+Trust scoring and reputation platform.
+
+### Legal Research Assistant
+AI-powered workflows for legal research.
+
+### Personal Portfolio
+Projects, blogs, and experiments.
+
+---
+
+## Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jayyy-collab&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayyy-collab&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayyy-collab&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Links
+
+- Portfolio: https://your-portfolio-link.com
+- Contact: mailto:jayy.intouch@gmail.com
+
+<p align="left">
 <a href="https://linkedin.com/in/jayasurya-raj">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -24,86 +76,23 @@ Law Student • Software Engineer • Builder
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-### Contact
-
-📧 jayy.intouch@gmail.com
-
-</td>
-
-<td width="65%">
-
-# 🚀 About Me
-
-- Building **TrustIndex**
-- Law + Engineering student
-- Interested in AI, Cloud, Product Development & Design
-- Love turning ideas into products
-- Constant work in progress
+<a href="https://youtube.com/@yourchannel">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+</p>
 
 ---
 
-# 🛠 Skill Stack
+## GitHub Trophy
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,react,html,css,flutter,figma,mysql,androidstudio,git,github" />
+<img src="https://github-profile-trophy.vercel.app/?username=jayyy-collab&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
-### Also comfortable with
-
-- UI/UX Design
-- Legal Research
-- Product Strategy
-- API Integration
-- Database Design
-
 ---
 
-# 📈 GitHub Stats
+## Visitors
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayyy-collab&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayyy-collab&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏆 Achievements
-
-- 🚀 Building TrustIndex
-- ⚖️ Law & Engineering Student
-- 💡 Passionate about Tech + Policy
-- 🌱 Always learning
-
----
-
-# 📂 Featured Projects
-
-### TrustIndex
-Trust scoring and reputation platform.
-
-### Legal Research Tools
-Experiments around AI-assisted legal workflows.
-
-### Personal Portfolio
-Projects, blogs, and experiments.
-
----
-
-# 🌐 Links
-
-- Portfolio: *(Add your portfolio link)*
-- LinkedIn: https://linkedin.com/in/jayasurya-raj
-- Instagram: https://instagram.com/surryyyaa
-
----
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jayyy-collab&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jayyy-collab&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=jayyy-collab&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
